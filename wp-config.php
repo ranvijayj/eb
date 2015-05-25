@@ -22,7 +22,7 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'wp22');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'pass1');
+define('DB_PASSWORD', 'pass12');
 
 /** MySQL hostname */
 define('DB_HOST', 'aa14u7yyyocvpf7.cvfyusxvqqv6.us-east-1.rds.amazonaws.com:3306');
